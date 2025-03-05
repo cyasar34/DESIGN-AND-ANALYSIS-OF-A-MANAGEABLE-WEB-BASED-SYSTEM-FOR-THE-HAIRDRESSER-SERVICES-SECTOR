@@ -26,7 +26,7 @@ KUAFÖR HİZMETLERİ SEKTÖRÜ İÇİN YÖNETİLEBİLİR WEB TABANLI SİSTEM TAS
 
 Kongre İsmi: SOCRATES 10th INTERNATIONAL HEALTH, ENGINEERING AND APPLIED SCIENCES CONGRESS / ULUSLARARASI 10. SOCRATES SAĞLIK, MÜHENDİSLİK VE UYGULAMALI BİLİMLER KONGRESİ
 
-Kongre Kitabı ISBN No: 
+Kongre Kitabı ISBN No: 978-625-6997-60-8
 
 Kongre Tarihleri: 29-31 Ocak 2025 İSTANBUL / January 29-31, 2025 ISTANBUL
 
@@ -34,7 +34,7 @@ Kongre Tarihleri: 29-31 Ocak 2025 İSTANBUL / January 29-31, 2025 ISTANBUL
 
 [Araştırma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:W7OEmFMy1HYC)
 
-[Araştırma ResearchGate Linki](https://www.researchgate.net/publication/377890791_SOKAK_CANLILARINA_YARDIM_ICIN_WEB_TABANLI_TAKIP_SISTEMI)
+[Araştırma ResearchGate Linki](https://www.researchgate.net/publication/389545682_KUAFOR_HIZMETLERI_SEKTORU_ICIN_YONETILEBILIR_WEB_TABANLI_SISTEM_TASARIMI_VE_ANALIZI_DESIGN_AND_ANALYSIS_OF_A_MANAGEABLE_WEB-BASED_SYSTEM_FOR_THEHAIRDRESSER_SERVICES_SECTOR)
 
 [Araştırma Sosyal Medya Linki](https://www.instagram.com/p/DFFHbFBNNIx/)
 
@@ -52,7 +52,7 @@ Abstract:
 - **APA**: Yaşar, Ç., Ballıkaya, A., Ertan, E. & Türlü, Y. (2025).  Kuaför Hizmetleri Sektörü İçin Yönetilebilir Web Tabanlı Sistem Tasarımı ve Analizi. SOCRATES 10th INTERNATIONAL HEALTH, ENGINEERING AND APPLIED SCIENCES CONGRESS (pp.120-127). London, England                            
 - **MLA**: Yaşar, ÇİSEM, Ballıkaya, ARDA, Ertan, ERAY, ve Türlü, YUSUF.  "Kuaför Hizmetleri Sektörü İçin Yönetilebilir Web Tabanlı Sistem Tasarımı ve Analizi"  SOCRATES 10th INTERNATIONAL HEALTH, ENGINEERING AND APPLIED SCIENCES CONGRESS, London, England, pp.120-127, 2025               
 
-![Bildiri Metni](https://github.com/cyasar34/SOKAK-CANLILARINA-YARDIM-ICIN-WEB-TABANLI-TAKIP-SISTEMI/blob/main/sokak_canlilarina_yardim_web_sitesi.PNG)
+![Bildiri Metni](https://github.com/cyasar34/DESIGN-AND-ANALYSIS-OF-A-MANAGEABLE-WEB-BASED-SYSTEM-FOR-THE-HAIRDRESSER-SERVICES-SECTOR/blob/main/kuafor_hizmetleri_yonetilebilir_sistem.PNG)
 
 License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
