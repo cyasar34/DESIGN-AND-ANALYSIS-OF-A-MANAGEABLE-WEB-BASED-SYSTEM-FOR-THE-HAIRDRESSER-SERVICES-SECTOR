@@ -32,7 +32,7 @@ Kongre Tarihleri: 29-31 Ocak 2025 İSTANBUL / January 29-31, 2025 ISTANBUL
 
 [Kongre İnternet Sayfası](https://ubsder.org.tr/uluslararasi-10-socrates-saglik-muhendislik-ve-uygulamali-bilimler-kongresi/)
 
-[Araştırma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:W7OEmFMy1HYC)
+[Araştırma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:hqOjcs7Dif8C)
 
 [Araştırma ResearchGate Linki](https://www.researchgate.net/publication/389545682_KUAFOR_HIZMETLERI_SEKTORU_ICIN_YONETILEBILIR_WEB_TABANLI_SISTEM_TASARIMI_VE_ANALIZI_DESIGN_AND_ANALYSIS_OF_A_MANAGEABLE_WEB-BASED_SYSTEM_FOR_THEHAIRDRESSER_SERVICES_SECTOR)
 
